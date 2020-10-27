@@ -21,7 +21,7 @@
 
 ### Mobile Screenshot
 <div align="center">
-   <img src="./.github/apresentacao.gif" width="180">
+   <img src="./.github/apresentacao.gif" width="240">
 </div>
 
 
